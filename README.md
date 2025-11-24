@@ -1,10 +1,10 @@
 # HealthNode Privacy Policy  
-**Last Updated:** [Insert Date]
+**Last Updated:** 24/11/2025
 
 ---
 
 ## 1. Introduction  
-HealthNode is a personal women’s health companion designed to help users track menstrual cycles, predict ovulation, and log symptoms.  
+HealthNode is a personal women’s health companion designed and developed by "FuseNode" to help users track menstrual cycles, predict ovulation, and log symptoms.  
 This Privacy Policy explains how HealthNode collects, uses, and protects your information.
 
 ---
@@ -84,7 +84,7 @@ We do not knowingly collect data from children under 13.
 ## 9. Contact Information  
 If you have questions regarding this Privacy Policy, contact:
 
-**[Your Developer Email]**
+**fusenode.group@gmail.com**
 
 ---
 
@@ -94,4 +94,4 @@ Any updates will be reflected with a revised “Last Updated” date.
 
 ---
 
-© [Current Year] HealthNode. All Rights Reserved.
+© 2025 HealthNode. All Rights Reserved.
